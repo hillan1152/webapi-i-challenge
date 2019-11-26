@@ -1,1 +1,6 @@
-// implement your API here
+// imports express
+const express = require('express') 
+
+// creates the server
+const server = express(); 
+
